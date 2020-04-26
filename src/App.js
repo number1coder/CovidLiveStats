@@ -29,7 +29,6 @@ const {data, country} = this.state;
 
     return(
       <div className={styles.container}>
-        <img className={styles.image}src={coronaImage} alt="COVID-19"/> 
         <div class="middle"><p><b>CovidLiveStats</b></p></div>
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />

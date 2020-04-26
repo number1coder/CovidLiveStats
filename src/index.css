@@ -31,7 +31,7 @@ p{
   border-collapse: collapse;
   margin: 25px 0;
   font-size: 0.9em;
-  width: 55%;
+  min-width: x;
   
   border-radius: 5px 5px 0 0;
   overflow: hidden;
@@ -67,7 +67,8 @@ p{
   color: #009879;
 }
 .ncdc{
-  text-align: center;
+  text-align: center
+  ;
 }
 .stylish{
   color: white;
@@ -83,4 +84,6 @@ p{
     width: 100%;
   }
 }
-
+.twitter{
+  text-align: center;
+}
