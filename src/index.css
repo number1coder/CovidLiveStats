@@ -27,45 +27,7 @@ p{
   margin-bottom: 13%;
   color: rgb(42,184,206);
 }
-.content-table {
-  border-collapse: collapse;
-  margin: 25px 0;
-  font-size: 17px;
-  min-width: x;
-  
-  border-radius: 5px 5px 0 0;
-  overflow: hidden;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-}
 
-.content-table thead tr {
-  background-color: #009879;
-  color: #ffffff;
-  text-align: left;
-  font-weight: bold;
-}
-
-.content-table ,
-.content-table {
-  padding: 12px 15px;
-}
-
-.content-table {
-  border-bottom: 1px solid #dddddd;
-}
-
-.content-table  {
-  background-color: #f3f3f3;
-}
-
-.content-table {
-  border-bottom: 2px solid #009879;
-}
-
-.content-table  {
-  font-weight: bold;
-  color: black;
-}
 .ncdc{
   text-align: center
   ;
